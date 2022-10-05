@@ -137,9 +137,9 @@ namespace Assignment02.Test
             Assert.AreEqual(result, expected);
         }
         [Test]
-        public void valid_Input25and30_OutputValidgetPerimeter()
+        public void valid_Input35and30_OutputValidgetPerimeter()
         {
-            int length = 25;
+            int length = 35;
             int width = 30;
             int expected = 2 * (length + width);
             Rectangle rectangle = new Rectangle(length, width);
