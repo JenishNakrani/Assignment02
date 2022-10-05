@@ -1,0 +1,8 @@
+C:\Users\jenis\OneDrive\Documents\GitHub\SoftwareQuality\Assignment02\Assignment02\bin\Debug\Assignment02.exe.config
+C:\Users\jenis\OneDrive\Documents\GitHub\SoftwareQuality\Assignment02\Assignment02\bin\Debug\Assignment02.exe
+C:\Users\jenis\OneDrive\Documents\GitHub\SoftwareQuality\Assignment02\Assignment02\bin\Debug\Assignment02.pdb
+C:\Users\jenis\OneDrive\Documents\GitHub\SoftwareQuality\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.AssemblyReference.cache
+C:\Users\jenis\OneDrive\Documents\GitHub\SoftwareQuality\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.SuggestedBindingRedirects.cache
+C:\Users\jenis\OneDrive\Documents\GitHub\SoftwareQuality\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\jenis\OneDrive\Documents\GitHub\SoftwareQuality\Assignment02\Assignment02\obj\Debug\Assignment02.exe
+C:\Users\jenis\OneDrive\Documents\GitHub\SoftwareQuality\Assignment02\Assignment02\obj\Debug\Assignment02.pdb
